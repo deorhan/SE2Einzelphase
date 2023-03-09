@@ -1,2 +1,2 @@
 # SE2Einzelphase
- SE2Einzelphase
+ Matrikelnummer % 7 = 3
