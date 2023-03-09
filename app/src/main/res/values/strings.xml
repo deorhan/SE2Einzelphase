@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">SE2Einzelphase</string>
+    <string name="app_name">NetworkTest</string>
+    <string name="matrikelnummerTextView">Gib deine Matrikelnummer ein</string>
+    <string name="matrikelnummerEditView">12119264</string>
+    <string name="antwortTextView">Antwort vom Server</string>
+    <string name="abschickenButton">Abschicken</string>
 </resources>
