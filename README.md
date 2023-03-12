@@ -1,2 +1,2 @@
 # SE2Einzelphase
- Matrikelnummer % 7 = 3
+Einzelabgabe SE2 Projekt. Matrikelnummer % 7 = 3
